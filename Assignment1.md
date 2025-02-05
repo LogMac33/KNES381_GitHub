@@ -1,3 +1,1 @@
-<p align="center">
-  This text will be centered.
-</p>
+<p align="center"> Markdown Assignment </p>
