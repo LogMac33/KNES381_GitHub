@@ -1,1 +1,3 @@
-<p style="text-align: center;">A piece of centered text</p>
+<div style="text-align: center;">
+  This text will be centered.
+</div>
