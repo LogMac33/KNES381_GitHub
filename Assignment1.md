@@ -11,4 +11,4 @@
   </tr>
 </table>
 
-$$\textcolor{yellow}{This text will be yellow.}$$
+<span style="color: yellow;">This text will be yellow.</span>
