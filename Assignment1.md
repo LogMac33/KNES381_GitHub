@@ -11,4 +11,4 @@
   </tr>
 </table>
 
-@@ this text should be purple @@
+<p align="center"> V̇O2 </p>
