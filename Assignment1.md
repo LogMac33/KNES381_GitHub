@@ -11,4 +11,5 @@
   </tr>
 </table>
 
-<p align="center"> V̇O2 </p>
+<p style="color:blue";>This text should be blue.</p>
+
