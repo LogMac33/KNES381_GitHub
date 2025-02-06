@@ -11,5 +11,4 @@
   </tr>
 </table>
 
-<p style="color:blue";>This text should be blue.</p>
-
+body {color:red;}
