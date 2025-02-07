@@ -25,6 +25,6 @@ V&#775;O<sub>2</sub>
     </td>
   </tr>
   <tr>
-    <td>This text is below the image and text</td?
+    <td>This text is below the text to the left of the image</td?
   </tr>
 </table>
