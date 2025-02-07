@@ -13,10 +13,8 @@
 
 <a href="https://github.com/LogMac33/KNES381_GitHub/blob/main/thumbnail_IMG_5328.jpg">Here's a picture I took of the Upper Grassi Lakes!</a>
 
-V%#775;O<sub>2</sub>
-
-V&#x0307;O<sub>2</sub>
-
 V&#775;O<sub>2</sub>
 
-<p style="color:yellow;">Yellow Text</p>
+<span style="color:yellow;">Yellow Text</span>
+
+![Yellow text](https://via.placeholder.com/1x1/FFFF00/000000?text=+)
