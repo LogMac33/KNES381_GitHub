@@ -15,6 +15,16 @@
 
 V&#775;O<sub>2</sub>
 
-<span style="color:yellow;">Yellow Text</span>
-
-![Yellow text](https://via.placeholder.com/1x1/FFFF00/000000?text=+)
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 10px">
+    This is a photo of rundle mountain I found on the internet.
+    </td>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Mount_Rundle_at_Dusk.jpg" alt="Rundle Mountain" style="max-width: 100px;">
+    </td>
+  </tr>
+  <tr>
+    <td>This text is below the image and text</td?
+  </tr>
+</table>
