@@ -14,3 +14,7 @@
 <a href="https://github.com/LogMac33/KNES381_GitHub/blob/main/thumbnail_IMG_5328.jpg">Here's a picture I took of the Upper Grassi Lakes!</a>
 
 V&#775;O<sub>2</sub>
+
+```diff
++This text should be green
+```
