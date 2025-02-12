@@ -15,8 +15,9 @@
 
 <a href="/images/thumbnail_IMG_5328.jpg">Here's a picture I took of Upper Grassi Lakes that is in a sub folder in github</a>
 
-V&#775;O<sub>2</sub>
+This text should have subscript and scientific notation V&#775;O<sub>2</sub>
 
 ```diff
 +This text should be green
+-This text should be red
 ```
