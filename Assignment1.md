@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-<a href="https://github.com/LogMac33/KNES381_GitHub/blob/main/thumbnail_IMG_5328.jpg">Here's a picture I took of the Upper Grassi Lakes with a hyperlink to another document</a>
+<a href="/readme1.md">Here's a hyperlink to antoher document</a>
 
 <a href="/images/thumbnail_IMG_5328.jpg">Here's a picture I took of Upper Grassi Lakes that is in a sub folder in github</a>
 
