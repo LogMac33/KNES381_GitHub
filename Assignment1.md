@@ -2,12 +2,8 @@
 
 <table>
 <tr>
-<td>
-This text will be on the left.
-</td>
-<td>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Mount_Rundle_at_Dusk.jpg" alt="Description of image" style="max-width: 100px;">
-</td>
+<td>This text will be on the left.</td>
+<td> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Mount_Rundle_at_Dusk.jpg" </td>
 </tr>
 </table>
 
