@@ -7,11 +7,11 @@
 </tr>
 </table>
 
-<a href="/readme1.md">Here's a hyperlink to antoher document</a>
+<a href="/readme1.md">Here's a hyperlink to readme1.md</a>
 
 <a href="/images/thumbnail_IMG_5328.jpg">Here's a picture I took of Upper Grassi Lakes that is in a sub folder in github</a>
 
-This text should have subscript and scientific notation V&#775;O<sub>2</sub>
+This text should have subscript, superscript and scientific notation: V&#775;O<sub>2</sub>, Ca<sup>2+</sup>
 
 ```diff
 +This text should be green
