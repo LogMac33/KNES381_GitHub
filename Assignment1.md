@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td>This text will be on the left.</td>
-<td> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Mount_Rundle_at_Dusk.jpg" </td>
+<td> <img src="/images/thumbnail_IMG_5328.jpg"> </td>
 </tr>
 </table>
 
